@@ -100,7 +100,7 @@ main()
 			{
 				if(i==n)
 				{
-					printf("\n\NOW ENTER THE VEG ITEMS :");
+					printf("\nNOW ENTER THE VEG ITEMS :");
 					printf("\nGST RATES ON VEG ITEMS IS 12 PECENT");
 				}
 					printf("\n%d NAME ",i+1);
